@@ -1,4 +1,4 @@
-# project-haripraveen_subramanian_cool_boss
+# Manga Colorization
 
 This is our code for manga colourization as a part of DIP Monsoon 2020 course project. The paper that we have used is 
 http://www.cse.cuhk.edu.hk/~ttwong/papers/manga/manga.pdf
